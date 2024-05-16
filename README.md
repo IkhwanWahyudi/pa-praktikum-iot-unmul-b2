@@ -13,6 +13,14 @@ Kelompok 2 Kelas B 2021:
 
 
 ## Komponen yang Digunakan
+Komponen yang digunakan antara lain:
+1.	NodeMCU x 2
+2.	Kabel Jumper Male - Male x 2
+3.	Kabel Jumper Female - Female x 3
+4.	LED x 2
+5.	Resistor x 2
+6.	Sensor Air x 1
+7.	Buzzer x 1
 
 
 ## Board Schematic
