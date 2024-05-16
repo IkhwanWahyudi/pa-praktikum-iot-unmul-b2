@@ -7,10 +7,12 @@ Kelompok 2 Kelas B 2021:
 <center><h1>Sistem IoT untuk Peringatan Dini Banjir dengan Monitoring Debit Air menggunakan Sensor Air</h1></center>
 
 ## Deskripsi
-
+  Pada proyek ini, platform Kodular digunakan untuk mengintegrasikan sistem monitoring debit air dengan Internet of Things (IoT). Melalui platform Kodular, pengguna memiliki kemampuan untuk mengontrol indikator status banjir agar menyala atau tidak sesuai kebutuhan. Hal ini memungkinkan pengguna untuk secara aktif memantau kondisi debit air dan menerima peringatan dini melalui sistem IoT jika terjadi potensi banjir. Dengan demikian, sistem ini tidak hanya memberikan informasi tentang status banjir, tetapi juga memberikan kontrol yang lebih interaktif kepada pengguna dalam mengelola situasi banjir secara efektif.
 
 ## Pembagian Tugas
-
+1. Moh Ikhwan Wahyudi  : Membuat code untuk publisher, mengatur blocks pada Kodular dan membuat rangkaian untuk publisher. 
+2. Pranata Eka Pramudya  : Membuat design Kodular, membuat manual book dan rangkaian untuk Subscriber.
+3. Irfan Arman Hidayat  : Membuat code untuk Subscriber dan rangkaian untuk Subscriber.
 
 ## Komponen yang Digunakan
 Komponen yang digunakan antara lain:
